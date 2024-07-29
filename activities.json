@@ -1,0 +1,16 @@
+[
+  {
+    "debut": "2024-07-27T18:31:40",
+    "projet": {
+      "id": 9,
+      "nom": "Système de gestion des employés"
+    },
+    "discipline": {
+      "nom": "Gestion de projet"
+    },
+    "employe": {
+      "nom": "Cedric Tanekeu",
+      "id": 2
+    }
+  }
+]

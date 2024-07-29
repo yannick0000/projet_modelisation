@@ -1,0 +1,75 @@
+[
+  {
+    "debut": "2024-07-26T17:44:22",
+    "fin": "2024-07-26T17:45:02",
+    "projet": {
+      "id": 125,
+      "nom": "Modelisation Orient‚e objet"
+    },
+    "discipline": {
+      "nom": "Conception"
+    },
+    "employe": {
+      "nom": "Cedric tanekeu",
+      "id": 1
+    }
+  },
+  {
+    "debut": "2024-07-26T17:53:29",
+    "fin": "2024-07-26T18:41:10",
+    "projet": {
+      "id": 3,
+      "nom": "Projet Gamma"
+    },
+    "discipline": {
+      "nom": "Test"
+    },
+    "employe": {
+      "nom": "Cedric Tanekeu ",
+      "id": 1
+    }
+  },
+  {
+    "debut": "2024-07-27T17:58:18",
+    "fin": "2024-07-27T17:59:32",
+    "projet": {
+      "id": 3,
+      "nom": "Projet Gamma"
+    },
+    "discipline": {
+      "nom": "Documentation"
+    },
+    "employe": {
+      "nom": "Cedric Tanekeu",
+      "id": 2
+    }
+  },
+  {
+    "debut": "2024-07-27T18:16:52",
+    "projet": {
+      "id": 3,
+      "nom": "Projet Gamma"
+    },
+    "discipline": {
+      "nom": "Documentation"
+    },
+    "employe": {
+      "nom": "Cedric Tanekeu",
+      "id": 2
+    }
+  },
+  {
+    "debut": "2024-07-29T10:11:18",
+    "projet": {
+      "id": 3,
+      "nom": "Plateforme de blog"
+    },
+    "discipline": {
+      "nom": "Exigences"
+    },
+    "employe": {
+      "nom": "Cedric Tanekeu",
+      "id": 1
+    }
+  }
+]

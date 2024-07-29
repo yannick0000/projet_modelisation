@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "material-icon-theme",
+    "tabnine.experimentalAutoImports": true,
+    "editor.accessibilitySupport": "on",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.activityBar.location": "hidden",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "python.defaultInterpreterPath": "C:\\Users\\18195\\miniconda3\\python.exe",
+    "java.project.referencedLibraries": [
+        "libs/**/*.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
