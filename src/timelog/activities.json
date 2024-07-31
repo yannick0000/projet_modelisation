@@ -1,145 +1,256 @@
 [
   {
-    "debut": "2024-07-26T17:44:22",
-    "fin": "2024-07-26T17:45:02",
-    "projet": {
-      "id": 125,
-      "nom": "Modelisation Orient�e objet"
-    },
-    "discipline": {
-      "nom": "Conception"
-    },
-    "employe": {
-      "nom": "Cedric tanekeu",
-      "id": 1
-    }
-  },
-  {
-    "debut": "2024-07-26T17:53:29",
-    "fin": "2024-07-26T18:41:10",
-    "projet": {
-      "id": 3,
-      "nom": "Projet Gamma"
-    },
-    "discipline": {
-      "nom": "Test"
-    },
-    "employe": {
-      "nom": "Cedric Tanekeu ",
-      "id": 1
-    }
-  },
-  {
-    "debut": "2024-07-27T17:58:18",
-    "fin": "2024-07-27T17:59:32",
-    "projet": {
-      "id": 3,
-      "nom": "Projet Gamma"
-    },
-    "discipline": {
-      "nom": "Documentation"
-    },
-    "employe": {
-      "nom": "Cedric Tanekeu",
-      "id": 2
-    }
-  },
-  {
-    "debut": "2024-07-27T18:16:52",
-    "projet": {
-      "id": 3,
-      "nom": "Projet Gamma"
-    },
-    "discipline": {
-      "nom": "Documentation"
-    },
-    "employe": {
-      "nom": "Cedric Tanekeu",
-      "id": 2
-    }
-  },
-  {
-    "debut": "2024-07-29T10:11:18",
-    "projet": {
-      "id": 3,
-      "nom": "Plateforme de blog"
-    },
-    "discipline": {
-      "nom": "Exigences"
-    },
-    "employe": {
-      "nom": "Cedric Tanekeu",
-      "id": 1
-    }
-  },
-  {
-    "debut": "2024-07-29T12:05:40",
+    "id": 0,
+    "nom": "Modélisation métier",
+    "debut": "2024-07-31T01:23:45",
     "projet": {
       "id": 1,
       "nom": "Application de gestion de tâches (To-Do List)"
     },
-    "discipline": {
-      "nom": "Conception"
-    },
     "employe": {
-      "nom": "Cedric tanekeu",
-      "id": 1
-    }
-  },
-  {
-    "debut": "2024-07-29T12:14:25",
-    "projet": {
+      "nom": "Employé1",
       "id": 1,
-      "nom": "Application de gestion de tâches (To-Do List)"
-    },
-    "discipline": {
-      "nom": "implementation"
-    },
-    "employe": {
-      "nom": "Cedric Collins",
-      "id": 2
+      "dateEmbauche": "2023-01-15",
+      "poste": "Poste1"
     }
   },
   {
-    "debut": "2024-07-29T12:16:28",
+    "id": 0,
+    "nom": "Conception",
+    "debut": "2024-07-31T02:23:45",
     "projet": {
       "id": 2,
       "nom": "Système de gestion de bibliothèque"
     },
-    "discipline": {
-      "nom": "Gestion de projet"
-    },
     "employe": {
-      "nom": "Aude maelisse",
-      "id": 2
+      "nom": "Employé2",
+      "id": 2,
+      "dateEmbauche": "2023-02-20",
+      "poste": "Poste2"
     }
   },
   {
-    "debut": "2024-07-30T19:06:23",
+    "id": 0,
+    "nom": "Modélisation métier",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Exigences",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Conception",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Implémentation",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Déploiement",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Gestion de projet",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Gestion de la configuration et des changements",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Environnement",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Conception",
+    "debut": "2024-07-31T04:00:50.867405100",
     "projet": {
       "id": 10,
       "nom": "Application de quiz en ligne"
     },
-    "discipline": {
-      "nom": "Deploiement"
-    },
     "employe": {
-      "nom": "Cedric",
-      "id": 1
+      "nom": "Employé1",
+      "id": 1,
+      "dateEmbauche": "2024-07-31",
+      "numeroAssuranceSociale": "123-45-6789",
+      "poste": "Poste1"
     }
   },
   {
-    "debut": "2024-07-31T00:20:58",
+    "id": 0,
+    "nom": "Modélisation métier",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Exigences",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Conception",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Implémentation",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Déploiement",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Gestion de projet",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Gestion de la configuration et des changements",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Environnement",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Conception",
+    "debut": "2024-07-31T04:02:49.981135200",
+    "projet": {
+      "id": 8,
+      "nom": "Application de recettes de cuisine"
+    },
+    "employe": {
+      "nom": "Employé1",
+      "id": 1,
+      "dateEmbauche": "2024-07-31",
+      "numeroAssuranceSociale": "123-45-6789",
+      "poste": "Poste1"
+    }
+  },
+  {
+    "id": 0,
+    "nom": "Modélisation métier",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Exigences",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Conception",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Implémentation",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Déploiement",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Gestion de projet",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Gestion de la configuration et des changements",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Environnement",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 0,
+    "nom": "Conception",
+    "debut": "2024-07-31T04:09:56.196123500",
     "projet": {
       "id": 10,
       "nom": "Application de quiz en ligne"
     },
-    "discipline": {
-      "nom": "Deploiement"
+    "employe": {
+      "nom": "Employé1",
+      "id": 1,
+      "dateEmbauche": "2024-07-31",
+      "numeroAssuranceSociale": "123-45-6789",
+      "poste": "Poste1"
+    }
+  },
+  {
+    "id": 1,
+    "nom": "Modélisation métier",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 2,
+    "nom": "Exigences",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 3,
+    "nom": "Conception",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 4,
+    "nom": "Implémentation",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 5,
+    "nom": "Déploiement",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 6,
+    "nom": "Gestion de projet",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 7,
+    "nom": "Gestion de la configuration et des changements",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 8,
+    "nom": "Environnement",
+    "debut": "2024-07-31T01:23:45"
+  },
+  {
+    "id": 38,
+    "nom": "Conception",
+    "debut": "2024-07-31T04:49:35.022118",
+    "projet": {
+      "id": 10,
+      "nom": "Application de quiz en ligne"
     },
     "employe": {
-      "nom": "Cedric tanekeu",
-      "id": 1
+      "nom": "Employé1",
+      "id": 1,
+      "dateEmbauche": "2024-07-31",
+      "numeroAssuranceSociale": "123-45-6789",
+      "poste": "Poste1"
     }
   }
 ]
